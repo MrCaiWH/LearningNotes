@@ -1,0 +1,23 @@
+<html>
+
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+</head>
+
+<body>
+    <div id="myApp">
+        <p>你最喜欢的游戏是：{{mygame}}</p>
+        <input v-model="mygame">
+    </div>
+    <script>
+        var myApp = new Vue({
+            el: '#myApp',
+            data: {
+                mygame: '超级马里奥'
+            },
+        });
+    </script>
+
+</body>
+
+</html>
