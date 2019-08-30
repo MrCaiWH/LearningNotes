@@ -27,3 +27,11 @@
     * [HTTPS/TLS 的握手](Chapter4/c1.md)
 * 数据结构
     * [HTTPS/TLS 的握手](Chapter5/c1.md)
+* Vue
+    * [HTTPS/TLS 的握手](Chapter6/c1.md)
+* Ruby
+    * [基础语法](Chapter7/c1.md)
+* Shell
+    * [基础语法](Chapter8/c1.md)
+* Python
+    * [基础语法](Chapter9/c1.md)
